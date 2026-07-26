@@ -1,1 +1,1 @@
-process.env.MONGODB_URI = 'mongodb+srv://2803673194_db_user:YuJing2024Blog!@cluster0.d1irviv.mongodb.net/?appName=Cluster0';const Twikoo = require('twikoo-vercel');module.exports = Twikoo;
+process.env.MONGODB_URI = 'mongodb+srv://2803673194_db_user:YuJing2024Blog%21@cluster0.d1irviv.mongodb.net/?appName=Cluster0';const Twikoo = require('twikoo-vercel');module.exports = Twikoo;
