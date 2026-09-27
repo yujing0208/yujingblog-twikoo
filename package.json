@@ -1,1 +1,11 @@
-{"name":"twikoo","version":"1.0.0","private":true,"dependencies":{"twikoo-vercel":"1.7.14"}}
+{
+  "name": "twikoo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "twikoo-vercel": "1.7.14"
+  },
+  "overrides": {
+    "pushoo": "0.1.12"
+  }
+}
